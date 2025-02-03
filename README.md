@@ -46,8 +46,7 @@ This is a simple voting application built while following Chapter 1 of the React
     ```
 
 ## Screenshot
-![Voting App Screenshot](![Voting App Screenshot](images/Screenshot%202025-02-03%20at%2010.36.17%20AM.png)
-)
+![Voting App Screenshot](public/images/images/voting-app-screenshot.png)
 
 ## Notes
 Title updated from "Popular Products" to "[Full stack]"
